@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MagoOscuroMovement : MonoBehaviour
+public class MerchantMovement : MonoBehaviour
 {
     public GameObject BulletPrefab;
     public float Speed;
@@ -34,23 +34,23 @@ public class MagoOscuroMovement : MonoBehaviour
         {
             Grounded = true;
             //Animator.SetBool("isGrounded",true);
-            Animator.SetBool("jumping", false);
+            //Animator.SetBool("jumping", false);
         }
         else
         {
             Grounded = false;
             //Animator.SetBool("isGrounded",false);
-            Animator.SetBool("jumping", true);
+            //Animator.SetBool("jumping", true);
         }
                 
             
-        if (Input.GetKeyDown(KeyCode.W) && Grounded)
+        if (Input.GetKeyDown(KeyCode.P) && Grounded)
         {
             
             Jump();
         }
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Alpha0))
         {
             Shoot();
         }

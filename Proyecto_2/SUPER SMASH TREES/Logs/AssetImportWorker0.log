@@ -1,0 +1,1030 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.48f1 (170d2541580d) revision 1510693'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'es' Physical Memory: 7834 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Unity\6000.0.48f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Javier/OneDrive/Documentos/GitHub/Proyecto_2_Datos1_1S_2025/Proyecto_2/SUPER SMASH TREES
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59504
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/Javier/OneDrive/Documentos/GitHub/Proyecto_2_Datos1_1S_2025/Proyecto_2/SUPER SMASH TREES
+C:/Users/Javier/OneDrive/Documentos/GitHub/Proyecto_2_Datos1_1S_2025/Proyecto_2/SUPER SMASH TREES
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [30248]  Target information:
+
+Player connection [30248]  * "[IP] 192.168.1.105 [Port] 0 [Flags] 2 [Guid] 2306356176 [EditorId] 2306356176 [Version] 1048832 [Id] WindowsEditor(7,JavierH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [30248] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [30248] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 8.22 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.48f1 (170d2541580d)
+[Subsystems] Discovering subsystems at path C:/Unity/6000.0.48f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Javier/OneDrive/Documentos/GitHub/Proyecto_2_Datos1_1S_2025/Proyecto_2/SUPER SMASH TREES/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     3917 MB
+    Driver:   31.0.101.5186
+Initialize mono
+Mono path[0] = 'C:/Unity/6000.0.48f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Unity/6000.0.48f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Unity/6000.0.48f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Unity/6000.0.48f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006948 seconds.
+- Loaded All Assemblies, in  1.991 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.489 seconds
+Domain Reload Profiling: 2479ms
+	BeginReloadAssembly (305ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (79ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (749ms)
+	LoadAllAssembliesAndSetupDomain (834ms)
+		LoadAssemblies (298ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (772ms)
+			TypeCache.Refresh (770ms)
+				TypeCache.ScanAssembly (710ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (491ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (409ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (31ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (83ms)
+			ProcessInitializeOnLoadAttributes (219ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.364 seconds
+Refreshing native plugins compatible for Editor in 1.90 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.351 seconds
+Domain Reload Profiling: 2684ms
+	BeginReloadAssembly (217ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (992ms)
+		LoadAssemblies (691ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (429ms)
+			TypeCache.Refresh (306ms)
+				TypeCache.ScanAssembly (279ms)
+			BuildScriptInfoCaches (105ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1352ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1212ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (188ms)
+			ProcessInitializeOnLoadAttributes (863ms)
+			ProcessInitializeOnLoadMethodAttributes (147ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 4.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 133 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6590 unused Assets / (5.8 MB). Loaded Objects now: 7136.
+Memory consumption went from 148.2 MB to 142.3 MB.
+Total: 20.591300 ms (FindLiveObjects: 2.420000 ms CreateObjectMapping: 0.987500 ms MarkObjects: 10.270900 ms  DeleteObjects: 6.907900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49763.029922 seconds.
+  path: Assets/SpriteSheets/player/Cyborg/PC Computer - Terraria - Cyborg.png
+  artifactKey: Guid(5da79655151282d4fbe11f7f5706d024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/player/Cyborg/PC Computer - Terraria - Cyborg.png using Guid(5da79655151282d4fbe11f7f5706d024) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c674ec2cb5e3afde0b9d83fd72f2685d') in 0.1951869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.746149 seconds.
+  path: Assets/SpriteSheets/player/Chaman/PC Computer - Terraria - Witch Doctor.png
+  artifactKey: Guid(b9414ccfbd57b98448c752c8e51af0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/player/Chaman/PC Computer - Terraria - Witch Doctor.png using Guid(b9414ccfbd57b98448c752c8e51af0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3dd042498d043ee994febf6fbeb5bce') in 0.272969 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.868536 seconds.
+  path: Assets/SpriteSheets/fx/explosion_smoke.png
+  artifactKey: Guid(4c02a48b95b9c2b46a54fc9ed569c702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/fx/explosion_smoke.png using Guid(4c02a48b95b9c2b46a54fc9ed569c702) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f23c12d56a19506cca68542c638c6711') in 0.1318288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.861316 seconds.
+  path: Assets/SpriteSheets/player/Huargen
+  artifactKey: Guid(3ef271ab4d01fc741a2ee2bc73f4ca89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/player/Huargen using Guid(3ef271ab4d01fc741a2ee2bc73f4ca89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06778da795ab8b5f5a6f9d4cecd3a499') in 0.0038308 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027069 seconds.
+  path: Assets/SpriteSheets/player/Huargen/PC Computer - Terraria - Zoologist.png
+  artifactKey: Guid(c89b108ba25de3c45bd864d2fe57ca17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/player/Huargen/PC Computer - Terraria - Zoologist.png using Guid(c89b108ba25de3c45bd864d2fe57ca17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f26a77a04d4f3f21ceb9f4aef5d8364') in 0.4216894 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 75
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.827794 seconds.
+  path: Assets/Animations/Huargen
+  artifactKey: Guid(ec938f36166c20c49b709d075553de11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Huargen using Guid(ec938f36166c20c49b709d075553de11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '591a3cdfe632db9ce56948f6d49298d6') in 0.0023091 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 727.501423 seconds.
+  path: Assets/SpriteSheets/player/Huargen/Huargen.controller
+  artifactKey: Guid(4f2539886cb70b64fa4cce2bd8a5fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/player/Huargen/Huargen.controller using Guid(4f2539886cb70b64fa4cce2bd8a5fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1f0eff9edd802be8a2e8173c975917d') in 0.2544205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.125698 seconds.
+  path: Assets/SpriteSheets/player/Huargen/Huargen_walking.anim
+  artifactKey: Guid(0bb17f04607cc9443ac9c345ede44c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/player/Huargen/Huargen_walking.anim using Guid(0bb17f04607cc9443ac9c345ede44c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9bef47b6e5558d13be42ba383963fe9e') in 0.0399937 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.678820 seconds.
+  path: Assets/Animations/Huargen/Huargen_running.anim
+  artifactKey: Guid(bc52d1e7596a84e4d956816890973b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Huargen/Huargen_running.anim using Guid(bc52d1e7596a84e4d956816890973b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa3e5be80d3ba50eb2330176819031a0') in 0.3606805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 2.72 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6578 unused Assets / (6.0 MB). Loaded Objects now: 7206.
+Memory consumption went from 128.7 MB to 122.7 MB.
+Total: 392.488100 ms (FindLiveObjects: 5.115800 ms CreateObjectMapping: 1.057900 ms MarkObjects: 377.873300 ms  DeleteObjects: 8.436800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 132.279947 seconds.
+  path: Assets/Scripts/HuargenMovementScript.cs
+  artifactKey: Guid(7f0569d3073011b429ecb5b3f08bfc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HuargenMovementScript.cs using Guid(7f0569d3073011b429ecb5b3f08bfc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c2e0de6e2cd9407a3f089026af5006d') in 0.010917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.080649 seconds.
+  path: Assets/Scripts/MagoOscuroMovement.cs
+  artifactKey: Guid(13930bdc8a0b43445860356f1eb4007e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MagoOscuroMovement.cs using Guid(13930bdc8a0b43445860356f1eb4007e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '305d4f0b57b9769c6287e0db8935764f') in 0.0047507 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  5.081 seconds
+Refreshing native plugins compatible for Editor in 2.06 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.009 seconds
+Domain Reload Profiling: 6092ms
+	BeginReloadAssembly (1981ms)
+		ExecutionOrderSort (3ms)
+		DisableScriptedObjects (393ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (4ms)
+		CreateAndSetChildDomain (884ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (2967ms)
+		LoadAssemblies (1226ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1969ms)
+			TypeCache.Refresh (94ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (1831ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1010ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (820ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (167ms)
+			ProcessInitializeOnLoadAttributes (574ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 4.27 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6589 unused Assets / (6.2 MB). Loaded Objects now: 7208.
+Memory consumption went from 131.6 MB to 125.4 MB.
+Total: 15.255700 ms (FindLiveObjects: 1.550700 ms CreateObjectMapping: 0.737900 ms MarkObjects: 8.776100 ms  DeleteObjects: 4.188700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 261.000581 seconds.
+  path: Assets/Scripts/BulletScript.cs
+  artifactKey: Guid(3f429fb980f97f345aa07717b97cebad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BulletScript.cs using Guid(3f429fb980f97f345aa07717b97cebad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c99043ae9d9905daee031fe41567df8') in 0.2346785 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 2.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6578 unused Assets / (6.4 MB). Loaded Objects now: 7208.
+Memory consumption went from 131.8 MB to 125.4 MB.
+Total: 235.753200 ms (FindLiveObjects: 4.699800 ms CreateObjectMapping: 0.880900 ms MarkObjects: 225.112200 ms  DeleteObjects: 5.057000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 10.623 seconds
+Refreshing native plugins compatible for Editor in 6.90 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.426 seconds
+Domain Reload Profiling: 13058ms
+	BeginReloadAssembly (6892ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (649ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (4ms)
+		CreateAndSetChildDomain (3825ms)
+	RebuildCommonClasses (166ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (799ms)
+	LoadAllAssembliesAndSetupDomain (2757ms)
+		LoadAssemblies (4067ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (604ms)
+			TypeCache.Refresh (58ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (470ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (2428ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2161ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (252ms)
+			ProcessInitializeOnLoadAttributes (1792ms)
+			ProcessInitializeOnLoadMethodAttributes (87ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (8ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (23ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.59 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6589 unused Assets / (6.6 MB). Loaded Objects now: 7210.
+Memory consumption went from 131.6 MB to 125.1 MB.
+Total: 26.862800 ms (FindLiveObjects: 3.727400 ms CreateObjectMapping: 1.001800 ms MarkObjects: 14.092400 ms  DeleteObjects: 8.037900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.253 seconds
+Refreshing native plugins compatible for Editor in 6.74 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.265 seconds
+Domain Reload Profiling: 2518ms
+	BeginReloadAssembly (326ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (30ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (92ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (832ms)
+		LoadAssemblies (638ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (343ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (292ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1266ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1085ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (234ms)
+			ProcessInitializeOnLoadAttributes (736ms)
+			ProcessInitializeOnLoadMethodAttributes (96ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 10.96 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6589 unused Assets / (5.4 MB). Loaded Objects now: 7212.
+Memory consumption went from 131.6 MB to 126.3 MB.
+Total: 34.441800 ms (FindLiveObjects: 2.462300 ms CreateObjectMapping: 4.992500 ms MarkObjects: 18.159200 ms  DeleteObjects: 8.825100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  9.614 seconds
+Refreshing native plugins compatible for Editor in 13.46 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.855 seconds
+Domain Reload Profiling: 15493ms
+	BeginReloadAssembly (4263ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (451ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (5ms)
+		CreateAndSetChildDomain (1943ms)
+	RebuildCommonClasses (228ms)
+	RebuildNativeTypeToScriptingClass (54ms)
+	initialDomainReloadingComplete (208ms)
+	LoadAllAssembliesAndSetupDomain (4883ms)
+		LoadAssemblies (4175ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1780ms)
+			TypeCache.Refresh (98ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1510ms)
+			ResolveRequiredComponents (69ms)
+	FinalizeReload (5856ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (5090ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (34ms)
+			BeforeProcessingInitializeOnLoad (792ms)
+			ProcessInitializeOnLoadAttributes (4095ms)
+			ProcessInitializeOnLoadMethodAttributes (147ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 9.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6589 unused Assets / (5.9 MB). Loaded Objects now: 7214.
+Memory consumption went from 131.6 MB to 125.7 MB.
+Total: 29.464000 ms (FindLiveObjects: 4.380700 ms CreateObjectMapping: 1.845700 ms MarkObjects: 16.455200 ms  DeleteObjects: 6.779300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 635.117004 seconds.
+  path: Assets/Animations/Huargen/HuargenAnimationController.controller
+  artifactKey: Guid(78bb62007fb739346965971f62fbc07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Huargen/HuargenAnimationController.controller using Guid(78bb62007fb739346965971f62fbc07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c8efcd40790a51d4381e1365f635496') in 0.1418235 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.522182 seconds.
+  path: Assets/SpriteSheets/player/Huargen/Huargen_walking.anim
+  artifactKey: Guid(0bb17f04607cc9443ac9c345ede44c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/player/Huargen/Huargen_walking.anim using Guid(0bb17f04607cc9443ac9c345ede44c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c7221c775e2be095578fb128eac3aa3') in 0.0263688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 11.592 seconds
+Refreshing native plugins compatible for Editor in 2.86 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.465 seconds
+Domain Reload Profiling: 15063ms
+	BeginReloadAssembly (2473ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (275ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (4ms)
+		CreateAndSetChildDomain (1290ms)
+	RebuildCommonClasses (186ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (98ms)
+	LoadAllAssembliesAndSetupDomain (8812ms)
+		LoadAssemblies (2426ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (6931ms)
+			TypeCache.Refresh (56ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (6803ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (3467ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3198ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (219ms)
+			ProcessInitializeOnLoadAttributes (2562ms)
+			ProcessInitializeOnLoadMethodAttributes (389ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (32ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 11.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6589 unused Assets / (4.9 MB). Loaded Objects now: 7216.
+Memory consumption went from 131.5 MB to 126.6 MB.
+Total: 53.123200 ms (FindLiveObjects: 6.218700 ms CreateObjectMapping: 4.269500 ms MarkObjects: 28.845500 ms  DeleteObjects: 13.773400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  8.320 seconds
+Refreshing native plugins compatible for Editor in 22.76 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  6.368 seconds
+Domain Reload Profiling: 14703ms
+	BeginReloadAssembly (2305ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (180ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (4ms)
+		CreateAndSetChildDomain (1053ms)
+	RebuildCommonClasses (175ms)
+	RebuildNativeTypeToScriptingClass (50ms)
+	initialDomainReloadingComplete (184ms)
+	LoadAllAssembliesAndSetupDomain (5619ms)
+		LoadAssemblies (4600ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1772ms)
+			TypeCache.Refresh (103ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1520ms)
+			ResolveRequiredComponents (55ms)
+	FinalizeReload (6371ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (5580ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (15ms)
+			BeforeProcessingInitializeOnLoad (969ms)
+			ProcessInitializeOnLoadAttributes (3637ms)
+			ProcessInitializeOnLoadMethodAttributes (931ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (4ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (35ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.35 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6589 unused Assets / (6.0 MB). Loaded Objects now: 7218.
+Memory consumption went from 131.6 MB to 125.6 MB.
+Total: 14.171900 ms (FindLiveObjects: 2.052600 ms CreateObjectMapping: 0.766900 ms MarkObjects: 7.468800 ms  DeleteObjects: 3.881100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 707.787765 seconds.
+  path: Assets/SpriteSheets/player/Merchant
+  artifactKey: Guid(29063cc66af8d814f9de91b3784b462f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteSheets/player/Merchant using Guid(29063cc66af8d814f9de91b3784b462f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae302a788e9880ab1cd352e239730ef2') in 0.2943394 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.148511 seconds.
+  path: Assets/Animations/Merchant
+  artifactKey: Guid(914275bc8a9da82469938a9fe86b53f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Merchant using Guid(914275bc8a9da82469938a9fe86b53f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b9186c9329bbb8ee1ad33bb4dbafb75c') in 0.0119573 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.836056 seconds.
+  path: Assets/Animations/Merchant/MerchantAnimationController.controller
+  artifactKey: Guid(9e8700b8deaa84f499a9fbaead64f2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Merchant/MerchantAnimationController.controller using Guid(9e8700b8deaa84f499a9fbaead64f2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5dbdf813e8a6d3855e4072e6b7aafa9b') in 0.578426 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.598642 seconds.
+  path: Assets/Animations/Merchant/Merchant_running.anim
+  artifactKey: Guid(cdede98324386ef47ab4944e0daa934b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Merchant/Merchant_running.anim using Guid(cdede98324386ef47ab4944e0daa934b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '137ee0c1ef586f95a39c81bbe1eb886f') in 0.030325 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.44 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6579 unused Assets / (6.3 MB). Loaded Objects now: 7219.
+Memory consumption went from 131.8 MB to 125.5 MB.
+Total: 337.152600 ms (FindLiveObjects: 5.226400 ms CreateObjectMapping: 0.928700 ms MarkObjects: 322.671600 ms  DeleteObjects: 8.320800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 14.099 seconds
+Refreshing native plugins compatible for Editor in 90.01 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.286 seconds
+Domain Reload Profiling: 16400ms
+	BeginReloadAssembly (5281ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (496ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (11ms)
+		CreateAndSetChildDomain (2066ms)
+	RebuildCommonClasses (1088ms)
+	RebuildNativeTypeToScriptingClass (43ms)
+	initialDomainReloadingComplete (168ms)
+	LoadAllAssembliesAndSetupDomain (7532ms)
+		LoadAssemblies (7505ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1813ms)
+			TypeCache.Refresh (293ms)
+				TypeCache.ScanAssembly (15ms)
+			BuildScriptInfoCaches (1374ms)
+			ResolveRequiredComponents (60ms)
+	FinalizeReload (2289ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1314ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (208ms)
+			ProcessInitializeOnLoadAttributes (943ms)
+			ProcessInitializeOnLoadMethodAttributes (140ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.84 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6590 unused Assets / (5.4 MB). Loaded Objects now: 7221.
+Memory consumption went from 131.7 MB to 126.2 MB.
+Total: 26.670900 ms (FindLiveObjects: 3.105100 ms CreateObjectMapping: 0.844100 ms MarkObjects: 15.338100 ms  DeleteObjects: 7.379000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.334 seconds
+Refreshing native plugins compatible for Editor in 6.96 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.961 seconds
+Domain Reload Profiling: 4300ms
+	BeginReloadAssembly (641ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (37ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (191ms)
+	RebuildCommonClasses (90ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (1524ms)
+		LoadAssemblies (1184ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (662ms)
+			TypeCache.Refresh (29ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (527ms)
+			ResolveRequiredComponents (35ms)
+	FinalizeReload (1963ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1691ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (271ms)
+			ProcessInitializeOnLoadAttributes (1269ms)
+			ProcessInitializeOnLoadMethodAttributes (125ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 4.36 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6590 unused Assets / (6.2 MB). Loaded Objects now: 7223.
+Memory consumption went from 131.7 MB to 125.4 MB.
+Total: 17.803900 ms (FindLiveObjects: 1.058600 ms CreateObjectMapping: 1.516200 ms MarkObjects: 9.361800 ms  DeleteObjects: 5.865500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 727.462566 seconds.
+  path: Assets/Animations/Merchant/MerchantAnimationController.controller
+  artifactKey: Guid(9e8700b8deaa84f499a9fbaead64f2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Merchant/MerchantAnimationController.controller using Guid(9e8700b8deaa84f499a9fbaead64f2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a8ed9d2f4c4a02dc47422c044795112') in 0.7885069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.003992 seconds.
+  path: Assets/Animations/Merchant/Merchant_running.anim
+  artifactKey: Guid(cdede98324386ef47ab4944e0daa934b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Merchant/Merchant_running.anim using Guid(cdede98324386ef47ab4944e0daa934b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76b6fbebfa92e1e0bdf432de7ca41d1a') in 0.0619138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.436712 seconds.
+  path: Assets/Animations/Merchant/MerchantStill.anim
+  artifactKey: Guid(99c81c5283e679f48afe5f6bf8191504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Merchant/MerchantStill.anim using Guid(99c81c5283e679f48afe5f6bf8191504) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a9ec14ece858e6312d4036f3bc70e1d6') in 0.0559212 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  9.302 seconds
+Refreshing native plugins compatible for Editor in 6.37 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.963 seconds
+Domain Reload Profiling: 13268ms
+	BeginReloadAssembly (3683ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (254ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (6ms)
+		CreateAndSetChildDomain (2168ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (5483ms)
+		LoadAssemblies (2987ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (3065ms)
+			TypeCache.Refresh (74ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (2926ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (3964ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3769ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (201ms)
+			ProcessInitializeOnLoadAttributes (3443ms)
+			ProcessInitializeOnLoadMethodAttributes (96ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 10.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6590 unused Assets / (5.7 MB). Loaded Objects now: 7225.
+Memory consumption went from 131.7 MB to 125.9 MB.
+Total: 42.356000 ms (FindLiveObjects: 5.572500 ms CreateObjectMapping: 1.727400 ms MarkObjects: 22.318500 ms  DeleteObjects: 12.734700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  9.632 seconds
+Refreshing native plugins compatible for Editor in 14.93 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.178 seconds
+Domain Reload Profiling: 13829ms
+	BeginReloadAssembly (3952ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (901ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (5ms)
+		CreateAndSetChildDomain (1376ms)
+	RebuildCommonClasses (94ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (123ms)
+	LoadAllAssembliesAndSetupDomain (5460ms)
+		LoadAssemblies (3754ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2821ms)
+			TypeCache.Refresh (81ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (2417ms)
+			ResolveRequiredComponents (45ms)
+	FinalizeReload (4181ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3432ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (22ms)
+			BeforeProcessingInitializeOnLoad (616ms)
+			ProcessInitializeOnLoadAttributes (2399ms)
+			ProcessInitializeOnLoadMethodAttributes (357ms)
+			AfterProcessingInitializeOnLoad (22ms)
+			EditorAssembliesLoaded (4ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (51ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 19.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6590 unused Assets / (5.9 MB). Loaded Objects now: 7227.
+Memory consumption went from 131.6 MB to 125.7 MB.
+Total: 106.935700 ms (FindLiveObjects: 6.207200 ms CreateObjectMapping: 2.900500 ms MarkObjects: 83.698600 ms  DeleteObjects: 14.119700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
